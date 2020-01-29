@@ -1,0 +1,38 @@
+C:\Users\King\Desktop\DMetod\FindRoot\FindRoot\bin\Debug\FindRoot.exe.config
+C:\Users\King\Desktop\DMetod\FindRoot\FindRoot\bin\Debug\FindRoot.exe
+C:\Users\King\Desktop\DMetod\FindRoot\FindRoot\bin\Debug\FindRoot.pdb
+C:\Users\King\Desktop\DMetod\FindRoot\FindRoot\obj\Debug\FindRoot.csprojResolveAssemblyReference.cache
+C:\Users\King\Desktop\DMetod\FindRoot\FindRoot\obj\Debug\FindRoot.Form1.resources
+C:\Users\King\Desktop\DMetod\FindRoot\FindRoot\obj\Debug\FindRoot.Properties.Resources.resources
+C:\Users\King\Desktop\DMetod\FindRoot\FindRoot\obj\Debug\FindRoot.csproj.GenerateResource.Cache
+C:\Users\King\Desktop\DMetod\FindRoot\FindRoot\obj\Debug\FindRoot.exe
+C:\Users\King\Desktop\DMetod\FindRoot\FindRoot\obj\Debug\FindRoot.pdb
+C:\Users\King\Desktop\FindRoot\FindRoot\bin\Debug\FindRoot.exe.config
+C:\Users\King\Desktop\FindRoot\FindRoot\obj\Debug\FindRoot.exe
+C:\Users\King\Desktop\FindRoot\FindRoot\obj\Debug\FindRoot.pdb
+C:\Users\King\Desktop\FindRoot\FindRoot\bin\Debug\FindRoot.exe
+C:\Users\King\Desktop\FindRoot\FindRoot\bin\Debug\FindRoot.pdb
+C:\Users\King\Desktop\FindRoot\FindRoot\obj\Debug\FindRoot.csprojResolveAssemblyReference.cache
+C:\Users\King\Desktop\FindRoot\FindRoot\obj\Debug\FindRoot.Form1.resources
+C:\Users\King\Desktop\FindRoot\FindRoot\obj\Debug\FindRoot.Properties.Resources.resources
+C:\Users\King\Desktop\FindRoot\FindRoot\obj\Debug\FindRoot.csproj.GenerateResource.Cache
+C:\Users\Пользователь ПК\source\repos\FindRoot-2\FindRoot\bin\Debug\FindRoot.exe.config
+C:\Users\Пользователь ПК\source\repos\FindRoot-2\FindRoot\bin\Debug\FindRoot.exe
+C:\Users\Пользователь ПК\source\repos\FindRoot-2\FindRoot\bin\Debug\FindRoot.pdb
+C:\Users\Пользователь ПК\source\repos\FindRoot-2\FindRoot\obj\Debug\FindRoot.csprojAssemblyReference.cache
+C:\Users\Пользователь ПК\source\repos\FindRoot-2\FindRoot\obj\Debug\FindRoot.Form1.resources
+C:\Users\Пользователь ПК\source\repos\FindRoot-2\FindRoot\obj\Debug\FindRoot.Properties.Resources.resources
+C:\Users\Пользователь ПК\source\repos\FindRoot-2\FindRoot\obj\Debug\FindRoot.csproj.GenerateResource.cache
+C:\Users\Пользователь ПК\source\repos\FindRoot-2\FindRoot\obj\Debug\FindRoot.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь ПК\source\repos\FindRoot-2\FindRoot\obj\Debug\FindRoot.exe
+C:\Users\Пользователь ПК\source\repos\FindRoot-2\FindRoot\obj\Debug\FindRoot.pdb
+C:\Users\Пользователь ПК\source\repos\FindRoot\FindRoot\bin\Debug\FindRoot.exe.config
+C:\Users\Пользователь ПК\source\repos\FindRoot\FindRoot\bin\Debug\FindRoot.exe
+C:\Users\Пользователь ПК\source\repos\FindRoot\FindRoot\bin\Debug\FindRoot.pdb
+C:\Users\Пользователь ПК\source\repos\FindRoot\FindRoot\obj\Debug\FindRoot.csprojAssemblyReference.cache
+C:\Users\Пользователь ПК\source\repos\FindRoot\FindRoot\obj\Debug\FindRoot.Form1.resources
+C:\Users\Пользователь ПК\source\repos\FindRoot\FindRoot\obj\Debug\FindRoot.Properties.Resources.resources
+C:\Users\Пользователь ПК\source\repos\FindRoot\FindRoot\obj\Debug\FindRoot.csproj.GenerateResource.cache
+C:\Users\Пользователь ПК\source\repos\FindRoot\FindRoot\obj\Debug\FindRoot.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь ПК\source\repos\FindRoot\FindRoot\obj\Debug\FindRoot.exe
+C:\Users\Пользователь ПК\source\repos\FindRoot\FindRoot\obj\Debug\FindRoot.pdb
